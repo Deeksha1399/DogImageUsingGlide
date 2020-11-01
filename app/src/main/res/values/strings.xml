@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Image Using Glide</string>
+    <string name="display">Display Dog Images</string>
+    <string name="back">back</string>
+</resources>
